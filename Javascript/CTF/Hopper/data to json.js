@@ -1,0 +1,29 @@
+var json_res = {} ;
+// output data = 2,1,177,1,0,22,0,5,0,0,0,9,3,1,1,57,127,0,99,0,0,0,7,0,0,98,18,0,0,3
+json_res.initial = msg.payload[0] ; //0x02
+json_res.ID = msg.payload[1] ; //ID
+json_res.setting = msg.payload[2] ; //0xB1
+json_res.ErrorNo = msg.payload[3] ; //Error No.
+json_res.nowtemp = msg.payload[4]*256+msg.payload[5] ; //현재온도
+json_res.upper = msg.payload[6]*256+msg.payload[7] ; //상한값
+json_res.lower = msg.payload[8]*256+msg.payload[9] ; //하한값
+json_res.starttime = msg.payload[10] ; // AM/PM
+json_res.starthour = msg.payload[11] ; //시
+json_res.startminute = msg.payload[12] ; //분
+json_res.endtime = msg.payload[13] ; // AM/PM
+json_res.endhour = msg.payload[14] ; //시
+json_res.endminute = msg.payload[15] ; //분
+json_res.dayofweek = msg.payload[16] ; //작동요일
+json_res.setdate = msg.payload[17]*256+msg.payload[18] ; //일
+json_res.sethour = msg.payload[19] ; //시
+json_res.nowdate = msg.payload[20]*256+msg.payload[21] ; //일
+json_res.nowhour = msg.payload[22] ; //시
+json_res.resource = msg.payload[23] ; //재료
+json_res.settemp = msg.payload[24]*256+msg.payload[25] ; //세팅온도
+json_res.resourceNo = msg.payload[26] ; //원재료명
+json_res.alarm = msg.payload[27] ; //알람
+json_res.BCC = msg.payload[28] ; //BCC
+json_res.final = msg.payload[29] ; //0x03
+
+msg.payload = json_res ;
+return msg ;
