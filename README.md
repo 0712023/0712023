@@ -8,3 +8,4 @@
 20/03 ~ 20/06 : <a href = "https://github.com/0712023/Basis-and-Practice-in-Programming">Basis and Practice in Programming</a><br>
 19/12 ~&emsp;&emsp;&emsp;: <a href = "https://github.com/0712023/Cyber_Tech_Friend-Freelancer">CyberTechFriend Outsourcing Freelancer</a><br>
 20/11 ~&emsp;&emsp;&emsp;: AI SW Development & Data Analysis Course : <a href = "https://github.com/0712023/Java_AI-SW-Development-and-Data-Analysis-Course">Java</a> , <a href = "https://github.com/0712023/JDBC_JPA_AI-SW-Development-and-Data-Analysis-Course">JDBC/JPA</a><br/>
+https://github.com/0712023/Web_AI-SW-Development-and-Data-Analysis-Course
