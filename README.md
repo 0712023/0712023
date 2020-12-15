@@ -7,4 +7,4 @@
 19/12&emsp;&emsp;&emsp;&emsp;: <a href = "https://github.com/0712023/IoT_Project">My First IoT Project - Electric Blanket</a><br>
 20/03 ~ 20/06 : <a href = "https://github.com/0712023/Basis-and-Practice-in-Programming">Basis and Practice in Programming</a><br>
 19/01 ~&emsp;&emsp;&emsp;: <a href = "https://github.com/CyberTechFriend-Outsourcing-Freelancer">CyberTechFriend Outsourcing Freelancer</a><br>
-20/11 ~&emsp;&emsp;&emsp;: AI Application SW Development and Data Analysis Course : <a href = "https://github.com/0712023/Java_AI-SW-Development-and-Data-Analysis-Course">Java</a>, <a href = "https://github.com/0712023/JDBC_JPA_AI-SW-Development-and-Data-Analysis-Course">JDBC/JPA</a>, <a href = "https://github.com/0712023/Web_AI-SW-Development-and-Data-Analysis-Course">Web</a><br/>
+20/11 ~&emsp;&emsp;&emsp;: AI Application SW Development and Data Analysis Course : <a href = "https://github.com/Encore-Playdata-BigData-Course/Java">Java</a>, <a href = "https://github.com/Encore-Playdata-BigData-Course/JDBC_JPA">JDBC/JPA</a>, <a href = "https://github.com/Encore-Playdata-BigData-Course/Web">Web</a><br/>
