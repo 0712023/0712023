@@ -5,7 +5,7 @@
 19/01&emsp;&emsp;&emsp;&emsp;: <a href = "https://github.com/0712023/Fitness-Center-IoT-System">Fitness Center IoT System</a><br>
 19/07&emsp;&emsp;&emsp;&emsp;: <a href = "https://github.com/0712023/Mood-Light-DIY-kit">Mood Light DIY kit</a><br>
 19/12&emsp;&emsp;&emsp;&emsp;: <a href = "https://github.com/0712023/IoT_Project">My First IoT Project - Electric Blanket</a><br>
-20/03 ~ 20/06 : <a href = "https://github.com/0712023/Basis-and-Practice-in-Programming">Basis and Practice in Programming</a><br>
+20/03 ~ 20/06 : <a href = "https://github.com/0712023/Basis-and-Practice-in-Programming_SKKU">Basis and Practice in Programming Course at SKKU</a><br>
 19/01 ~&emsp;&emsp;&emsp;: <a href = "https://github.com/CyberTechFriend-Outsourcing-Freelancer">CyberTechFriend Outsourcing Freelancer</a><br>
 20/11 ~&emsp;&emsp;&emsp;: <a href = "https://github.com/Encore-Playdata-BigData-Course">AI Application SW Development and Data Analysis Course</a><br>
 <br>
