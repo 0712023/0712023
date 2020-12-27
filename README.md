@@ -1,6 +1,6 @@
 <br/>
 📖Projects<br/>
-18/03 ~ 18/12 : <a href = "https://github.com/0712023/S_Hero">S-HERO</a><br>
+18/03 ~ 18/12 : <a href = "https://github.com/0712023/Smart-Factory-Monitoring-System">Smart Factory Monitoring System</a><br>
 19/01 ~ 19/02 : <a href = "https://github.com/0712023/Edge-X-Foundry_Opensource-IoT-Platform">Edge X Foundry-Opensource IoT Platform</a><br>
 19/01&emsp;&emsp;&emsp;&emsp;: <a href = "https://github.com/0712023/Fitness-Center-IoT-System">Fitness Center IoT System</a><br>
 19/07&emsp;&emsp;&emsp;&emsp;: <a href = "https://github.com/0712023/Arduino-Mood-Light-DIY-kit">Arduino Mood Light DIY kit</a><br>
