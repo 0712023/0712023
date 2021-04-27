@@ -1,6 +1,5 @@
 <template>
     <div>
-        <!-- 로그인하는 form -->
         <input type="text" placeholder="admin id" v-model='id' class="login-input-wrap input-id">
         <input type="password" placeholder="pw" v-model='pw' class="login-input-wrap input-id"><br><br>
         <button @click="adminLogin">login</button><br><br><br>
