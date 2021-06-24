@@ -1,0 +1,14 @@
+{
+    "from": "mchcd",
+    "to": "master",
+    "type": "res",
+    "data": {
+      "pmchcd": "pmchcd",
+      "mchcd": "mchcd",
+      "mchty": "foolproof",
+      "param": "temperature5/setting",
+      "unit": "°C",
+      "value": 25.7,
+      "created": "2021-05-27T07:59:19.193Z"
+    }
+  }
