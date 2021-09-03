@@ -8,7 +8,8 @@
 19/12 ~ 19/12 : <a href = "https://github.com/0712023/Electric-Blanket-IoT-System">Electric Blanket IoT System</a><br>
 20/03 ~ 20/06 : <a href = "https://github.com/0712023/Basis-and-Practice-in-Programming_SKKU">Basis and Practice in Programming Course at SKKU</a><br>
 20/11 ~ 21/04 : <a href = "https://github.com/Encore-Playdata-BigData-Course">AI Application SW Development and Data Analysis Course</a><br>
-21/01 ~ 21/02 : <a href = "https://github.com/0712023/htf-frontend">Home Tech Friend - Low Cost Home IoT Platform</a><br>
+21/01 ~ 21/02 : <a href = "https://github.com/0712023/htf-backend">Home Tech Friend - Low Cost Home IoT Platform Back-End</a><br>
+21/01 ~ 21/02 : <a href = "https://github.com/0712023/htf-frontend">Home Tech Friend - Low Cost Home IoT Platform Front-End</a><br>
 21/04 ~ 21/04 : <a href = "https://github.com/0712023/rplidar_three">RPLidar Sensor with 3D Modeling</a><br>
 
 <br>
