@@ -11,7 +11,8 @@
 21/01 ~ 21/02 : <a href = "https://github.com/0712023/htf-backend">Home Tech Friend - Low Cost Home IoT Platform Back-End</a><br>
 21/01 ~ 21/02 : <a href = "https://github.com/0712023/htf-frontend">Home Tech Friend - Low Cost Home IoT Platform Front-End</a><br>
 21/04 ~ 21/04 : <a href = "https://github.com/0712023/rplidar_three">RPLidar Sensor with 3D Modeling</a><br>
-21/07 ~&emsp;&emsp;&emsp;: <a href = "https://github.com/SSAFY-6th">SSAFY 6th - Python Track</a><br>
+21/07 ~ 21/10 : <a href = "https://github.com/SSAFY-6th">SSAFY 6th - Python Track</a><br>
+21/07 ~&emsp;&emsp;&emsp;: LGCNS - Software Engineer Associate | Energy Solution Operation Team<br>
 
 <br>
   
