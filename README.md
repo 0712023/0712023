@@ -1,7 +1,7 @@
 <br/>
 📖Projects<br/>
 18/03 ~ 18/12 : <a href = "https://github.com/0712023/Smart-Factory-Monitoring-System">Smart Factory Monitoring System</a><br>
-19/01 ~&emsp;&emsp;&emsp;: <a href = "https://github.com/CyberTechFriend-Outsourcing-Freelancer">CyberTechFriend Outsourcing Freelancer</a><br>
+19/01 ~ 21/10 : <a href = "https://github.com/CyberTechFriend-Outsourcing-Freelancer">CyberTechFriend Outsourcing Freelancer</a><br>
 19/01 ~ 19/02 : <a href = "https://github.com/0712023/Edge-X-Foundry_Opensource-IoT-Platform">Edge X Foundry-Opensource IoT Platform</a><br>
 19/01 ~ 19/01 : <a href = "https://github.com/0712023/Fitness-Center-IoT-System">Fitness Center IoT System</a><br>
 19/07 ~ 19/07 : <a href = "https://github.com/0712023/Arduino-Mood-Light-DIY-kit">Arduino Mood Light DIY kit</a><br>
@@ -11,7 +11,8 @@
 21/01 ~ 21/02 : <a href = "https://github.com/0712023/htf-backend">Home Tech Friend - Low Cost Home IoT Platform Back-End</a><br>
 21/01 ~ 21/02 : <a href = "https://github.com/0712023/htf-frontend">Home Tech Friend - Low Cost Home IoT Platform Front-End</a><br>
 21/04 ~ 21/04 : <a href = "https://github.com/0712023/rplidar_three">RPLidar Sensor with 3D Modeling</a><br>
-21/07 ~&emsp;&emsp;&emsp;: <a href = "https://github.com/SSAFY-6th">SSAFY 6th - Python Track</a><br>
+21/07 ~ 21/10 : <a href = "https://github.com/SSAFY-6th">SSAFY 6th - Python Track</a><br>
+21/10 ~&emsp;&emsp;&emsp;: LGCNS - Software Engineer Associate | Energy Solution Operation Team<br>
 
 <br>
   
